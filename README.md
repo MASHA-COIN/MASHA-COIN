@@ -1,4 +1,4 @@
-### Hi there 👋
+"MASHA" is a cryptocurrency inspired by internet memes, aiming to foster humor and community spirit 
 
 <!--
 **MASHA-COIN/MASHA-COIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
